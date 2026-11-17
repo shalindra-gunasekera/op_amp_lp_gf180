@@ -6,7 +6,7 @@ The aim of this project was to design a low power operational amplifier for tape
 - Supply voltage, 3v3
 - GBW, 1MHz
 - Slew rate, >2V/us
-- Power consumption, <100uW
+- Power consumption, <250uW
 - Offset voltage (input ref), 2mV. 
 
 All for nominal load capacitance of 10pF.
