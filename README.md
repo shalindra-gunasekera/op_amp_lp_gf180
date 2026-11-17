@@ -17,6 +17,6 @@ The latter point annoyed me greatly in coursework - the biasing was always left 
 
 All for nominal load capacitance of 10pF.
 
-A detailed report of the design process will be released following submission of this project
+**NOTE** The layout and ESD design is not done yet, so please don't take these as complete designs!
 
-This readme is a bit of a rush job but will be updated shortly.
+A detailed report of the design process will be released following submission of this project This readme is a bit of a rush job but will be updated eventually.
