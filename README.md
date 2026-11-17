@@ -2,7 +2,7 @@
 
 The aim of this project was to design a low power operational amplifier for tapeout on a MPW run by wafer.space . This readme is a bit of a rush job but will be updated shortly.
 
-##Specs
+## Specs
 - Supply voltage, 3v3
 - GBW, 1MHz
 - Slew rate, >2V/us
